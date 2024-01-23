@@ -1,0 +1,12 @@
+
+.cheakout-item {
+    /* Other styles */
+
+    transition-property: left;
+    transition-duration: 0.5s; /* Adjust the duration as needed */
+    transition-timing-function: ease-in-out; /* Adjust timing function if needed */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Shopify.git/static/css/main.53e76ac5.css",
-    "main.js": "/Shopify.git/static/js/main.070ac41e.js",
-    "static/media/item4.png": "/Shopify.git/static/media/item4.bec912bc38fb8ea056f6.png",
-    "static/media/item1.png": "/Shopify.git/static/media/item1.33e5c5c06bbb6195d121.png",
-    "static/media/item5.png": "/Shopify.git/static/media/item5.0490c66476f9900b4ed8.png",
-    "static/media/item6.png": "/Shopify.git/static/media/item6.4d42b57a26110d085a9e.png",
-    "static/media/item8.png": "/Shopify.git/static/media/item8.609721cb69f44b3eda93.png",
-    "static/media/item3.png": "/Shopify.git/static/media/item3.c8aca2eccc574c2572e7.png",
-    "static/media/item7.png": "/Shopify.git/static/media/item7.b8e6b9fdf151e9512033.png",
-    "static/media/item2.png": "/Shopify.git/static/media/item2.d217cd51cc4a5ce112ac.png",
-    "static/media/item9.png": "/Shopify.git/static/media/item9.1d823a37a8c331fe7496.png",
-    "index.html": "/Shopify.git/index.html",
-    "main.53e76ac5.css.map": "/Shopify.git/static/css/main.53e76ac5.css.map",
-    "main.070ac41e.js.map": "/Shopify.git/static/js/main.070ac41e.js.map"
+    "main.css": "/Shopify/static/css/main.53e76ac5.css",
+    "main.js": "/Shopify/static/js/main.4853beb3.js",
+    "static/media/item4.png": "/Shopify/static/media/item4.bec912bc38fb8ea056f6.png",
+    "static/media/item1.png": "/Shopify/static/media/item1.33e5c5c06bbb6195d121.png",
+    "static/media/item5.png": "/Shopify/static/media/item5.0490c66476f9900b4ed8.png",
+    "static/media/item6.png": "/Shopify/static/media/item6.4d42b57a26110d085a9e.png",
+    "static/media/item8.png": "/Shopify/static/media/item8.609721cb69f44b3eda93.png",
+    "static/media/item3.png": "/Shopify/static/media/item3.c8aca2eccc574c2572e7.png",
+    "static/media/item7.png": "/Shopify/static/media/item7.b8e6b9fdf151e9512033.png",
+    "static/media/item2.png": "/Shopify/static/media/item2.d217cd51cc4a5ce112ac.png",
+    "static/media/item9.png": "/Shopify/static/media/item9.1d823a37a8c331fe7496.png",
+    "index.html": "/Shopify/index.html",
+    "main.53e76ac5.css.map": "/Shopify/static/css/main.53e76ac5.css.map",
+    "main.4853beb3.js.map": "/Shopify/static/js/main.4853beb3.js.map"
   },
   "entrypoints": [
     "static/css/main.53e76ac5.css",
-    "static/js/main.070ac41e.js"
+    "static/js/main.4853beb3.js"
   ]
 }
